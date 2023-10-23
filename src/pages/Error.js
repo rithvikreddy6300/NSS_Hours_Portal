@@ -4,7 +4,7 @@ function Error() {
   return (
     <div>
       <h2>Oops!! Seems like there is an error</h2>
-      <p>go back to home</p>
+      <p>Go back to home</p>
     </div>
   );
 }
